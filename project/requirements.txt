@@ -4,5 +4,6 @@ fastapi==0.63.0
 # Server
 uvicorn==0.13.4
 
-# BD
+# DB
 asyncpg==0.22.0
+tortoise-orm==0.16.21
